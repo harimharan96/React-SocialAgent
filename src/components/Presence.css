@@ -1,0 +1,83 @@
+.presence h3 {
+    margin: 24px 0 0 80px;
+    color: #E73137;
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 48px;
+}
+
+.presence p {
+    margin: 8px 0 22px 80px;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 24px;
+    width: 761px;
+    color: #0D0D0D;
+}
+
+.enq {
+    display: flex;
+    height: 697px;
+    align-items: center;
+    justify-content: space-evenly;
+    background-image: url(../assets/dd932e3e1ed76805663956d73adfc3ff.jpg);
+}
+
+.enq h2 {
+    font-weight: 500;
+    font-size: 64px;
+    line-height: 85px;
+    color: white;
+    width: 650px;
+}
+
+.enquiry form {
+    background-color: white;
+    width: 480px;
+    border-radius: 10px;
+    padding: 25px;
+}
+
+.enquiry h3 {
+    font-weight: 500;
+    font-size: 36px;
+    line-height: 48px;
+    width: 650px;
+    margin-bottom: 20px;
+}
+
+.enquiry p {
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 26px;
+
+    color: #0D0D0D;
+}
+
+.enquiry input {
+    border: none;
+    margin: 26px 5px;
+    border-bottom: 1px solid;
+    padding-bottom: 8px;
+    width: 430px;
+}
+
+.enquiry input::placeholder {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 21px;
+
+    color: rgba(0, 0, 0, 0.5);
+}
+
+.enquiry button {
+    border: none;
+    height: 48px;
+    width: 160px;
+    background: #FF881B;
+    border-radius: 10px;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 21px;
+    color: #FFFFFF;
+}

@@ -1,0 +1,44 @@
+.sidebar {
+    margin-inline: 5vw;
+    margin-right: 4vw;
+}
+
+.heading h3 {
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 32px;
+    text-decoration-line: underline;
+    margin-bottom: 16px;
+    text-underline-offset: 6px;
+}
+
+.categories h3 {
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 26px;
+    margin-block: 32px 13px;
+    color: #FF881B;
+}
+
+.categories li {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 26px;
+    margin-block: 8px;
+}
+
+.btn {
+    margin: 66px 0 66px 0;
+}
+
+.btn button {
+    border: none;
+    height: 48px;
+    width: 160px;
+    background: #FF881B;
+    border-radius: 10px;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 21px;
+    color: #FFFFFF;
+}

@@ -1,0 +1,35 @@
+.navbar {
+    width: 90vw;
+    height: 95px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-inline: 5vw;
+    margin-top: 10px;
+}
+
+.logo {
+    margin-inline: 141px;
+}
+
+.menu {
+    display: flex;
+}
+
+.menu li a {
+    margin: 18px;
+    color: #CD181E;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 21px;
+}
+
+.getInTouch {
+    padding: 6px;
+    border: 1px solid #CD181E;
+    border-radius: 2px;
+}
+
+#home {
+    color: #FF881B;
+}
